@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="D:\adt" version="1.7.0_75">
+<bootpath>
+<entry path="D:\adt\lib\resources.jar"/>
+<entry path="D:\adt\lib\rt.jar"/>
+<entry path="D:\adt\lib\sunrsasign.jar"/>
+<entry path="D:\adt\lib\jsse.jar"/>
+<entry path="D:\adt\lib\jce.jar"/>
+<entry path="D:\adt\lib\charsets.jar"/>
+<entry path="D:\adt\lib\jfr.jar"/>
+<entry path="D:\adt\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="D:\adt\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="D:\adt\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>
