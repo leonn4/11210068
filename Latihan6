@@ -1,0 +1,11 @@
+public class Latihan6 {
+    public static void main(String[] args) {
+        String[] mobil = {"Toyota", "Volvo", "BMW", "Ford", "Mazda"};
+
+        for (int i = 0; i < mobil.length; i++) {
+            String namaMobil = mobil[i];
+            int jmlKarakter = namaMobil.length();
+            System.out.println(namaMobil + " => Urutan ke " + (i + 1) + " Jml Karakter " + jmlKarakter);
+        }
+    }
+}
